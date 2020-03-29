@@ -1,4 +1,4 @@
-# googleearthstudio
+# Google Earth Studio
 Google Earth Studio Know-How
 
 
